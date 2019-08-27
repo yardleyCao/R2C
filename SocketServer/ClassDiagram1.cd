@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ZaZaNiao.CSocketServer">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="ZaZaNiao.CSocketServer.ReceiveCallBack">
+        <TypeIdentifier>
+          <NewMemberFileName>SocketEx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AYAAAAAEQAABIAAAAAAAAAAAQAEAAAAQAIAAAAAGAAA=</HashCode>
+      <FileName>SocketEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZaZaNiao.CSocketClient">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Delegate Name="ZaZaNiao.CSocketClient.ReceiveCallBack">
+        <TypeIdentifier>
+          <NewMemberFileName>SocketEx.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Delegate>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEQAAFAAAAAAAABAAAQAAAAAAQAAAAAAAEAAA=</HashCode>
+      <FileName>SocketEx.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>

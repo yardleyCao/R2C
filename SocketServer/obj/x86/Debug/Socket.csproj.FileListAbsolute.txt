@@ -1,0 +1,2 @@
+G:\东莞全日制\Socket\Socket\obj\x86\Debug\Socket.Properties.Resources.resources
+G:\东莞全日制\Socket\Socket\obj\x86\Debug\Socket.csproj.GenerateResource.Cache
